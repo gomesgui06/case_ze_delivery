@@ -1,0 +1,7 @@
+nltk
+openpyxl
+pandas
+seaborn
+wordcloud
+imblearn
+delayed
